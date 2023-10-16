@@ -1,3 +1,3 @@
 # Demo
-This is my First Git Repository
-- Arya Jain
+This is my First Git Repository.
+By Arya Jain
